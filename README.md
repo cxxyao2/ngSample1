@@ -1,12 +1,13 @@
 # ngSample1
-> angular 10
-> custom validator
-> router
-> animation
-> http
-> Rxjs
-> typescript
-> pipe
+* angular 10
+* Custom validator
+    * Synchronous
+    * Asynchronous
+* Animation
+* Http
+* RxJS
+* Typescript
+* Pipe
 =======
 # FRONTEND
 * Angular 10
