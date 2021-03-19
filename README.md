@@ -6,3 +6,4 @@
 > http
 > Rxjs
 > typescript
+> pipe
