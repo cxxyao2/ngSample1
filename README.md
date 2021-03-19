@@ -13,5 +13,6 @@
 * VSCODE
 * Extensions:
 * Angular 10 Snippets-TypeScript, Html, Angular Material, ngRx,RxJS,PWA & Testing
+* TODO
 # BACKEND
 * Mysql
