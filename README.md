@@ -29,4 +29,5 @@
 * Node.js 
 * Express
 * Mysql
+* MongoDB(NoSql)
 
