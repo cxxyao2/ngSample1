@@ -1,6 +1,6 @@
 # FRONTEND
-> angular 10
-> custom validator
+>> angular 10
+>> custom validator
 > router
 > animation
 > http
